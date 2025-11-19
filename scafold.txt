@@ -1,0 +1,10 @@
+virtualenv ~/.venv
+source  ~/.venv/bin/activate
+
+vim ~/.bashrc
+
+paste at the end of the file: source  ~/.venv/bin/activate
+
+esc to stop editing
+:w to write
+:q to quit
